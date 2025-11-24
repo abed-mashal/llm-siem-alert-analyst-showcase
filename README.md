@@ -188,6 +188,7 @@ Nov 21 14:22:10 server01 sshd[28934]: Failed password for invalid user admin fro
 - If you would like to run the full version, integrate it into your stack, or collaborate, feel free to reach out.
 
 ## Contact
-Abed Mashal
-Email: abedmashal@gmail.com
-LinkedIn: [insert link here](https://www.linkedin.com/in/abedmashal/)
+- Abed Mashal
+- Email: abedmashal@gmail.com
+- LinkedIn: [insert link here](https://www.linkedin.com/in/abedmashal/)
+
